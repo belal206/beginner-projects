@@ -6,7 +6,8 @@ and random.
 
 # Projects
 
-| Project --- Description |
+| Project | Description |
+|---|---|
 
 | Fortune Cookie | A fortune generator that gets increasingly desperate if you refuse to open the cookie |
 
