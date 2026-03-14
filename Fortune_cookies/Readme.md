@@ -8,9 +8,7 @@ and random.
 
 | Project | Description |
 |---|---|
-
 | Fortune Cookie | A fortune generator that gets increasingly desperate if you refuse to open the cookie |
-
 # What I learned
 - if/else logic
 - while loops and for loops
